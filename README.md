@@ -1,0 +1,1 @@
+[GH pages](http://shanole.github.io/vacation-site/index.html)
